@@ -1,0 +1,2 @@
+# fine-tuning-Bert-for-NER-task
+It is known that transformers are in the state-of-art of NLP tasks. Bert models usually fine-tuned on specific datasets that were made for specific tasks. In our work we want to apply Bert model after it was fine-tuned for NER (Named Entity Recognition) task and in addition was fine-tuned for specific domain. We saw the big difference between the performance of our model after just a general fine-tuning for NER task and the performance after the second fine-tuning for our specific domain.
